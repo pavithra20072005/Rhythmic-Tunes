@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title":"Anbae peranbae",
+      "singer": "Yuvan Shankar raja",
+      "genre": "Romantic",
+      "imgUrl": "https://th.bing.com/th/id/OIP.cnoJoPKiRLh__ircqBVXWgHaEK?rs=1&pid=ImgDetMain",
+      "songUrl": "Songs/anbe song.mpeg"
+    },
+    {
+      "id": 2,
+      "title": "kadhaipoma ",
+      "singer": "Leon james",
+      "genre": "Friendship",
+      "imgUrl":"https://c.saavncdn.com/496/Kadhaippoma-From-Oh-My-Kadavule--Tamil-2020-20200103060239-500x500.jpg",
+      "songUrl": "Songs/kadhaipoma.mpeg"
+    },
+    {
+      "id": 3,
+      "title": "Neela nilavea",
+      "singer": "Kapil Kapilan",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ83Dd6ZrVzhveOUxDTtXWgWnfVVeuiA_er_w&s",
+      "songUrl": "Songs/neela nilave.mpeg"
+    },
+    {
+      "id": 4,
+      "title": "kannadi poove",
+      "singer": "Santhosh Narayanan,Vivek",
+      "genre": "Emotional",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5eYJNSnGWAjf01eUr1WBBB5X2vd26lrDIg&s",
+      "songUrl": "/Songs/kannadi poove.mpeg"
+    },
+    {
+      "id": 5,
+      "title": "Vazhithunaiye",
+      "singer": "Leon james",
+      "genre": "Romantic",
+      "imgUrl": "https://th.bing.com/th/id/OIP.leybBhqTk519jGYuKWTiRwHaEK?w=1280&h=720&rs=1&pid=ImgDetMain",
+      "songUrl": "/Songs/vazhithunaiye.mpeg"
+    },
+    {
+      "id": 6,
+      "title": "Pirai Thedum",
+      "singer": "G.V. prakash Kumar,Saindhavi",
+      "genre": "Feelings",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJBnb91b4vtfLoXdO9AtLeB6k1DtzslCN4QA&s",
+      "songUrl": "/Songs/pirai thedum.mpeg"
+    },
+    {
+      "id": 7,
+      "title": "Kadhale Kadhale",
+      "singer": "Hiphop Tamizha,Shanker Mahadevan,Padmalatha",
+      "genre": "Romantic",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFbnD8Z8uzDA7nfvVzDYvoIczJj-dEQWZNA&s",
+      "songUrl": "Songs/kadhale kadhale.mpeg"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Nenjoramai",
+      "singer": "Hariharan",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2wgr0v2jmtxNnzep2Ho212ETizRtiCs5eQ&s",
+      "genre": "Romantic",
+      "songUrl": "Songs/Nenjoramai.mpeg",
+      "id": 6
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "Nenjil mamazhai",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/song/z8k3yd1Krx/k3ymDPYP3r/size_m_1516272312.jpg",
+      "genre": "Love",
+      "songUrl": "Songs/nenjil mamazhai.mpeg",
+      "singer": "B.Ajaneesh Loknath",
+      "id": 4
+    },
+    {
+      "itemId": 4,
+      "title": "Agasatha Na katura",
+      "imgUrl": "https://c.saavncdn.com/672/Cuckoo-Tamil-2014-500x500.jpg",
+      "genre": "Love",
+      "songUrl": "Songs/Agasatha Na katura.mpeg",
+      "singer": "Santhosh Narayanan",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "Chinna Chinna",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/81l3Me3rMx/1l3Ml0GAKr/size_m.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Chinna Chinna.mpeg",
+      "singer": "Shreya Ghoshal",
+      "id": 7
+    }
+  ]
+}
